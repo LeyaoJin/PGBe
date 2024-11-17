@@ -1,4 +1,3 @@
-# PGBe
 # Tissue Specificity Analyzer
 
 This tool allows users to analyze chromatin accessibility across tissues using ChIP-seq peak files and tissue-specific DNase-seq data. The analysis is performed using [ChIPseeker](https://bioconductor.org/packages/release/bioc/html/ChIPseeker.html) and visualized with `ggplot2`.
